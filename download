@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+run_outputs/
+data/gdc/
+data/GSE40419_RPKM.txt.gz
+data/GSE40419_family.soft.gz
+*.part
+*.zip
+.env

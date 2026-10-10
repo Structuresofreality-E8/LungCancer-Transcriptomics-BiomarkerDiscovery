@@ -1,0 +1,29 @@
+{
+  "SEED": 42,
+  "OUTER_FOLDS": 5,
+  "INNER_FOLDS": 3,
+  "BOOTSTRAPS": 1000,
+  "RUN_DE": true,
+  "RUN_PATHWAYS": true,
+  "RUN_OPEN_TARGETS": true,
+  "REACTOME_LIBRARY": "Reactome_2022",
+  "MIN_COUNTS": 10,
+  "MIN_SAMPLES": 10,
+  "GRID": {
+    "select__k": [
+      10,
+      25,
+      50
+    ],
+    "clf__C": [
+      0.01,
+      0.1,
+      1.0
+    ],
+    "clf__l1_ratio": [
+      0.5,
+      0.9
+    ]
+  },
+  "started_utc": "2026-10-10T09:32:14.899419+00:00"
+}

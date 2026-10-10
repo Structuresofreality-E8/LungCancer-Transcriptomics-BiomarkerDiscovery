@@ -1,0 +1,106 @@
+{
+  "tcga_nested_oof": {
+    "roc_auc": 0.998491951611317,
+    "average_precision": 0.9998347602947493,
+    "balanced_accuracy": 0.9866898337868406,
+    "sensitivity": 0.9903288201160542,
+    "specificity": 0.9830508474576272,
+    "brier_uncalibrated": 0.013175707723385718,
+    "tumor_prevalence": 0.8975694444444444,
+    "n": 576,
+    "tn": 58,
+    "fp": 1,
+    "fn": 5,
+    "tp": 512
+  },
+  "tcga_oof_patient_bootstrap_CI": {
+    "roc_auc": [
+      0.9958702614952615,
+      0.9999731108659681
+    ],
+    "average_precision": [
+      0.9995339158564935,
+      0.9999963733345236
+    ],
+    "balanced_accuracy": [
+      0.9669341692219051,
+      0.9980694980694981
+    ],
+    "sensitivity": [
+      0.9806949806949807,
+      0.9980658573743679
+    ],
+    "specificity": [
+      0.9464042207792207,
+      1.0
+    ]
+  },
+  "tcga_qc_only_baseline": {
+    "roc_auc": 0.6684916237747107,
+    "average_precision": 0.9429953739355574,
+    "balanced_accuracy": 0.642658099203357,
+    "sensitivity": 0.6073500967117988,
+    "specificity": 0.6779661016949152,
+    "brier_uncalibrated": 0.2303955741311163,
+    "tumor_prevalence": 0.8975694444444444,
+    "n": 576,
+    "tn": 40,
+    "fp": 19,
+    "fn": 203,
+    "tp": 314
+  },
+  "geo_locked_external": {
+    "roc_auc": 0.9926854754440961,
+    "average_precision": 0.9946811879787801,
+    "balanced_accuracy": 0.9597701149425287,
+    "sensitivity": 0.9195402298850575,
+    "specificity": 1.0,
+    "brier_uncalibrated": 0.033462694249194645,
+    "tumor_prevalence": 0.5304878048780488,
+    "n": 164,
+    "tn": 77,
+    "fp": 0,
+    "fn": 7,
+    "tp": 80
+  },
+  "geo_patient_bootstrap_CI": {
+    "roc_auc": [
+      0.9798814655172414,
+      0.9997053688345701
+    ],
+    "average_precision": [
+      0.9862522961413328,
+      0.9997417021826165
+    ],
+    "balanced_accuracy": [
+      0.9310344827586207,
+      0.9885057471264368
+    ],
+    "sensitivity": [
+      0.8620689655172413,
+      0.9770114942528736
+    ],
+    "specificity": [
+      1.0,
+      1.0
+    ]
+  },
+  "signature_size": 25,
+  "shared_gene_count": 16937,
+  "score_threshold": 0.5,
+  "caution": "Tissue association only; class-weighted scores uncalibrated; CI conditional on fitted models.",
+  "tcga_stage_I_tissue_vs_all_adjacent_normals_OOF": {
+    "roc_auc": 0.9996315401621223,
+    "average_precision": 0.9999213751453491,
+    "balanced_accuracy": 0.9879022353230165,
+    "sensitivity": 0.9927536231884058,
+    "specificity": 0.9830508474576272,
+    "brier_uncalibrated": 0.012096711753705013,
+    "tumor_prevalence": 0.8238805970149253,
+    "n": 335,
+    "tn": 58,
+    "fp": 1,
+    "fn": 2,
+    "tp": 274
+  }
+}

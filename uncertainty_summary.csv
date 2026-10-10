@@ -1,0 +1,13 @@
+cohort,metric,lower_95,upper_95,method
+TCGA,roc_auc,0.9958702614952615,0.9999731108659681,saved patient bootstrap; fixed predictions
+TCGA,average_precision,0.9995339158564935,0.9999963733345236,saved patient bootstrap; fixed predictions
+TCGA,balanced_accuracy,0.9669341692219051,0.9980694980694981,saved patient bootstrap; fixed predictions
+TCGA,sensitivity,0.9806949806949807,0.9980658573743679,saved patient bootstrap; fixed predictions
+TCGA,specificity,0.9464042207792207,1.0,saved patient bootstrap; fixed predictions
+GEO,roc_auc,0.9798814655172414,0.9997053688345701,saved patient bootstrap; fixed predictions
+GEO,average_precision,0.9862522961413328,0.9997417021826165,saved patient bootstrap; fixed predictions
+GEO,balanced_accuracy,0.9310344827586207,0.9885057471264368,saved patient bootstrap; fixed predictions
+GEO,sensitivity,0.8620689655172413,0.9770114942528736,saved patient bootstrap; fixed predictions
+GEO,specificity,1.0,1.0,saved patient bootstrap; fixed predictions
+GEO,sensitivity,0.8412249651808643,0.9670383077271096,two-sided Clopper-Pearson; distinct patients within class
+GEO,specificity,0.9532219318395959,1.0,two-sided Clopper-Pearson; distinct patients within class

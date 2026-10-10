@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the original datasets."
+type: software
+title: "LUAD Transcriptomic Transfer and Reproducibility"
+authors:
+  - family-names: "Malik"
+    given-names: "Tarun"
+version: "1.0.0"
+repository-code: "https://github.com/Structuresofreality-E8/LungCancer-Transcriptomics-BiomarkerDiscovery"
+url: "https://github.com/Structuresofreality-E8/LungCancer-Transcriptomics-BiomarkerDiscovery"
+license: MIT
+abstract: >-
+  Reproducible retrospective analysis of lung adenocarcinoma tissue
+  expression using TCGA and GSE40419, with patient-grouped nested
+  validation, paired differential expression, external evaluation,
+  uncertainty estimates and composition diagnostics.

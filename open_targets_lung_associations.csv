@@ -1,0 +1,115 @@
+,gene,target_id,disease_id,disease_name,association_score,association_count,status
+0,GPM6A,ENSG00000150625,MONDO_0005061,lung adenocarcinoma,0.09111513516809808,147,contextual annotation only
+1,GPM6A,ENSG00000150625,MONDO_0005233,non-small cell lung carcinoma,0.04881513797231134,147,contextual annotation only
+2,GPM6A,ENSG00000150625,MONDO_0005138,lung carcinoma,0.0358726255084341,147,contextual annotation only
+3,GPM6A,ENSG00000150625,MONDO_0008903,lung cancer,0.014910493915112802,147,contextual annotation only
+4,GPM6A,ENSG00000150625,MONDO_0008433,small cell lung carcinoma,0.010307171502873351,147,contextual annotation only
+5,PDLIM2,ENSG00000120913,MONDO_0008903,lung cancer,0.10698825721065414,177,contextual annotation only
+6,PDLIM2,ENSG00000120913,MONDO_0005138,lung carcinoma,0.10698825721065414,177,contextual annotation only
+7,PDLIM2,ENSG00000120913,MONDO_0021117,lung neoplasm,0.08650286665121418,177,contextual annotation only
+8,PDLIM2,ENSG00000120913,MONDO_0015925,interstitial lung disease,0.05248033936522765,177,contextual annotation only
+9,PDLIM2,ENSG00000120913,MONDO_0005233,non-small cell lung carcinoma,0.04337573330664215,177,contextual annotation only
+10,PDLIM2,ENSG00000120913,MONDO_0005275,lung disorder,0.031229497720857303,177,contextual annotation only
+11,PDLIM2,ENSG00000120913,MONDO_0005061,lung adenocarcinoma,0.024479991211621262,177,contextual annotation only
+12,PDLIM2,ENSG00000120913,MONDO_0015796,acute lung injury,0.017739833024865686,177,contextual annotation only
+13,PDLIM2,ENSG00000120913,MONDO_0005097,squamous cell lung carcinoma,0.0036957985468470188,177,contextual annotation only
+14,PDLIM2,ENSG00000120913,EFO_1001770,"Carcinoma, Lewis Lung",0.0022174791281082107,177,contextual annotation only
+15,GYPE,ENSG00000197465,MONDO_0005061,lung adenocarcinoma,0.013400965530867287,127,contextual annotation only
+16,GYPE,ENSG00000197465,MONDO_0005233,non-small cell lung carcinoma,0.008603819017059857,127,contextual annotation only
+17,GYPE,ENSG00000197465,MONDO_0005138,lung carcinoma,0.0042501683288740716,127,contextual annotation only
+18,GYPE,ENSG00000197465,MONDO_0008903,lung cancer,0.0022174791281082107,127,contextual annotation only
+19,STX11,ENSG00000135604,MONDO_0005233,non-small cell lung carcinoma,0.02938063513564839,281,contextual annotation only
+20,STX11,ENSG00000135604,MONDO_0005138,lung carcinoma,0.028271421628389245,281,contextual annotation only
+21,STX11,ENSG00000135604,MONDO_0005061,lung adenocarcinoma,0.021267883382114147,281,contextual annotation only
+22,STX11,ENSG00000135604,MONDO_0008433,small cell lung carcinoma,0.008725565959073207,281,contextual annotation only
+23,CD101,ENSG00000134256,MONDO_0005233,non-small cell lung carcinoma,0.009403754080310744,156,contextual annotation only
+24,CD101,ENSG00000134256,MONDO_0005061,lung adenocarcinoma,0.007805526530940903,156,contextual annotation only
+25,CD101,ENSG00000134256,MONDO_0005275,lung disorder,0.0036957985468470188,156,contextual annotation only
+26,CD101,ENSG00000134256,MONDO_0015796,acute lung injury,0.0022174791281082107,156,contextual annotation only
+27,NECAB1,ENSG00000123119,MONDO_0005061,lung adenocarcinoma,0.02930475712139439,78,contextual annotation only
+28,NECAB1,ENSG00000123119,MONDO_0005138,lung carcinoma,0.023180048485824497,78,contextual annotation only
+29,NECAB1,ENSG00000123119,MONDO_0005233,non-small cell lung carcinoma,0.016098898470065612,78,contextual annotation only
+30,NECAB1,ENSG00000123119,MONDO_0008433,small cell lung carcinoma,0.0073915970936940375,78,contextual annotation only
+31,NCKAP5,ENSG00000176771,MONDO_0005233,non-small cell lung carcinoma,0.0631341973040094,113,contextual annotation only
+32,NCKAP5,ENSG00000176771,MONDO_0005061,lung adenocarcinoma,0.03219471038343829,113,contextual annotation only
+33,NCKAP5,ENSG00000176771,MONDO_0005138,lung carcinoma,0.023180048485824497,113,contextual annotation only
+34,NCKAP5,ENSG00000176771,MONDO_0008903,lung cancer,0.0,113,contextual annotation only
+35,SH3GL3,ENSG00000140600,MONDO_0005138,lung carcinoma,0.03201752409990168,95,contextual annotation only
+36,SH3GL3,ENSG00000140600,MONDO_0008903,lung cancer,0.03201752409990168,95,contextual annotation only
+37,SH3GL3,ENSG00000140600,MONDO_0005233,non-small cell lung carcinoma,0.012881722580775887,95,contextual annotation only
+38,JAM2,ENSG00000154721,MONDO_0005061,lung adenocarcinoma,0.08969142629780989,236,contextual annotation only
+39,JAM2,ENSG00000154721,MONDO_0005233,non-small cell lung carcinoma,0.02796455750451006,236,contextual annotation only
+40,JAM2,ENSG00000154721,MONDO_0005138,lung carcinoma,0.02557881453730064,236,contextual annotation only
+41,SCUBE1,ENSG00000159307,,,,581,no lung term in first 200 associations; NOT evidence of absence
+42,ANGPT4,ENSG00000101280,MONDO_0005233,non-small cell lung carcinoma,0.03514334838196829,104,contextual annotation only
+43,ANGPT4,ENSG00000101280,MONDO_0005061,lung adenocarcinoma,0.007961366036332952,104,contextual annotation only
+44,ANGPT4,ENSG00000101280,MONDO_0015796,acute lung injury,0.0029566388374776143,104,contextual annotation only
+45,ANGPT4,ENSG00000101280,MONDO_0008433,small cell lung carcinoma,0.0022174791281082107,104,contextual annotation only
+46,ANGPT4,ENSG00000101280,MONDO_0005275,lung disorder,0.0022174791281082107,104,contextual annotation only
+47,ANGPT4,ENSG00000101280,MONDO_0008903,lung cancer,0.0018478992734235094,104,contextual annotation only
+48,ANGPT4,ENSG00000101280,MONDO_0005138,lung carcinoma,0.0018478992734235094,104,contextual annotation only
+49,SGCG,ENSG00000102683,,,,1640,no lung term in first 200 associations; NOT evidence of absence
+50,PRKCE,ENSG00000171132,MONDO_0005233,non-small cell lung carcinoma,0.11886421614892091,432,contextual annotation only
+51,PRKCE,ENSG00000171132,MONDO_0008433,small cell lung carcinoma,0.07641989127161825,432,contextual annotation only
+52,PRKCE,ENSG00000171132,MONDO_0005138,lung carcinoma,0.01931490145342253,432,contextual annotation only
+53,PRKCE,ENSG00000171132,MONDO_0008903,lung cancer,0.019262837842446347,432,contextual annotation only
+54,WNT3A,ENSG00000154342,MONDO_0005061,lung adenocarcinoma,0.08889803251115584,1204,contextual annotation only
+55,WNT3A,ENSG00000154342,MONDO_0005233,non-small cell lung carcinoma,0.08075454228543766,1204,contextual annotation only
+56,LGI3,ENSG00000168481,MONDO_0005233,non-small cell lung carcinoma,0.09007713334641328,207,contextual annotation only
+57,LGI3,ENSG00000168481,MONDO_0008903,lung cancer,0.010594622500961449,207,contextual annotation only
+58,LGI3,ENSG00000168481,MONDO_0005138,lung carcinoma,0.010594622500961449,207,contextual annotation only
+59,LGI3,ENSG00000168481,MONDO_0005061,lung adenocarcinoma,0.008648168599622023,207,contextual annotation only
+60,LGI3,ENSG00000168481,MONDO_0005097,squamous cell lung carcinoma,0.0036957985468470188,207,contextual annotation only
+61,PTPN21,ENSG00000070778,MONDO_0005061,lung adenocarcinoma,0.0295649511197857,101,contextual annotation only
+62,PTPN21,ENSG00000070778,MONDO_0005233,non-small cell lung carcinoma,0.02610993851157467,101,contextual annotation only
+63,PTPN21,ENSG00000070778,MONDO_0008903,lung cancer,0.007576387021036387,101,contextual annotation only
+64,PTPN21,ENSG00000070778,MONDO_0005138,lung carcinoma,0.007576387021036387,101,contextual annotation only
+65,PTPN21,ENSG00000070778,MONDO_0005097,squamous cell lung carcinoma,0.005913277674955229,101,contextual annotation only
+66,ANGPTL7,ENSG00000171819,MONDO_0005233,non-small cell lung carcinoma,0.027075420154201255,127,contextual annotation only
+67,ANGPTL7,ENSG00000171819,MONDO_0005061,lung adenocarcinoma,0.01324625529725344,127,contextual annotation only
+68,ANGPTL7,ENSG00000171819,MONDO_0005138,lung carcinoma,0.004506821005738447,127,contextual annotation only
+69,ANGPTL7,ENSG00000171819,MONDO_0008903,lung cancer,0.004506821005738447,127,contextual annotation only
+70,ADAMTS8,ENSG00000134917,MONDO_0008903,lung cancer,0.08636138956370483,153,contextual annotation only
+71,ADAMTS8,ENSG00000134917,MONDO_0005138,lung carcinoma,0.08636138956370483,153,contextual annotation only
+72,ADAMTS8,ENSG00000134917,MONDO_0005061,lung adenocarcinoma,0.05490516311219642,153,contextual annotation only
+73,ADAMTS8,ENSG00000134917,MONDO_0005233,non-small cell lung carcinoma,0.051411614066027234,153,contextual annotation only
+74,ADAMTS8,ENSG00000134917,MONDO_0008433,small cell lung carcinoma,0.0036957985468470188,153,contextual annotation only
+75,ADAMTS8,ENSG00000134917,MONDO_0005097,squamous cell lung carcinoma,0.0035110086195046675,153,contextual annotation only
+76,ADAMTS8,ENSG00000134917,MONDO_0021117,lung neoplasm,0.0029361066233284643,153,contextual annotation only
+77,FAM107A,ENSG00000168309,MONDO_0005233,non-small cell lung carcinoma,0.05170587983016112,129,contextual annotation only
+78,FAM107A,ENSG00000168309,MONDO_0005061,lung adenocarcinoma,0.035816902622854134,129,contextual annotation only
+79,FAM107A,ENSG00000168309,MONDO_0005138,lung carcinoma,0.02803545519956801,129,contextual annotation only
+80,FAM107A,ENSG00000168309,MONDO_0008433,small cell lung carcinoma,0.016178855909565436,129,contextual annotation only
+81,FAM107A,ENSG00000168309,MONDO_0008903,lung cancer,0.011439263550627818,129,contextual annotation only
+82,PPP1R14B,ENSG00000173457,MONDO_0005061,lung adenocarcinoma,0.08168628181072116,66,contextual annotation only
+83,PPP1R14B,ENSG00000173457,MONDO_0005138,lung carcinoma,0.009650140650100548,66,contextual annotation only
+84,PPP1R14B,ENSG00000173457,MONDO_0008903,lung cancer,0.009650140650100548,66,contextual annotation only
+85,ALDH18A1,ENSG00000059573,MONDO_0005061,lung adenocarcinoma,0.036040195496003166,354,contextual annotation only
+86,ALDH18A1,ENSG00000059573,MONDO_0008903,lung cancer,0.013529359146055586,354,contextual annotation only
+87,ALDH18A1,ENSG00000059573,MONDO_0005138,lung carcinoma,0.013529359146055586,354,contextual annotation only
+88,ALDH18A1,ENSG00000059573,MONDO_0005233,non-small cell lung carcinoma,0.011160079678629047,354,contextual annotation only
+89,PDIA4,ENSG00000155660,MONDO_0005138,lung carcinoma,0.07643320782088281,170,contextual annotation only
+90,PDIA4,ENSG00000155660,MONDO_0008903,lung cancer,0.07640303803682691,170,contextual annotation only
+91,PDIA4,ENSG00000155660,MONDO_0005233,non-small cell lung carcinoma,0.0333583311413756,170,contextual annotation only
+92,PDIA4,ENSG00000155660,MONDO_0005061,lung adenocarcinoma,0.027017199963268828,170,contextual annotation only
+93,PDIA4,ENSG00000155660,MONDO_0003422,lung adenoma,0.0044349582562164215,170,contextual annotation only
+94,PDIA4,ENSG00000155660,EFO_1001770,"Carcinoma, Lewis Lung",0.0022174791281082107,170,contextual annotation only
+95,PDIA4,ENSG00000155660,MONDO_0015925,interstitial lung disease,0.0022174791281082107,170,contextual annotation only
+96,PDIA4,ENSG00000155660,MONDO_0005097,squamous cell lung carcinoma,0.0014783194187388072,170,contextual annotation only
+97,GOLM1,ENSG00000135052,MONDO_0008903,lung cancer,0.06073761772353913,488,contextual annotation only
+98,GOLM1,ENSG00000135052,MONDO_0005138,lung carcinoma,0.06073761772353913,488,contextual annotation only
+99,GOLM1,ENSG00000135052,MONDO_0005233,non-small cell lung carcinoma,0.058274805402672124,488,contextual annotation only
+100,GOLM1,ENSG00000135052,MONDO_0005061,lung adenocarcinoma,0.056966686191084505,488,contextual annotation only
+101,RCC1,ENSG00000180198,MONDO_0005061,lung adenocarcinoma,0.0860474971669297,282,contextual annotation only
+102,RCC1,ENSG00000180198,MONDO_0005138,lung carcinoma,0.04744317634247727,282,contextual annotation only
+103,RCC1,ENSG00000180198,MONDO_0008903,lung cancer,0.04743660603394955,282,contextual annotation only
+104,RCC1,ENSG00000180198,MONDO_0005233,non-small cell lung carcinoma,0.03728281186341468,282,contextual annotation only
+105,RCC1,ENSG00000180198,MONDO_0008433,small cell lung carcinoma,0.010040252718934398,282,contextual annotation only
+106,PYCR1,ENSG00000183010,MONDO_0005061,lung adenocarcinoma,0.11193050283988426,221,contextual annotation only
+107,PYCR1,ENSG00000183010,MONDO_0005233,non-small cell lung carcinoma,0.10673632226701266,221,contextual annotation only
+108,PYCR1,ENSG00000183010,MONDO_0008903,lung cancer,0.09702036670985209,221,contextual annotation only
+109,PYCR1,ENSG00000183010,MONDO_0005138,lung carcinoma,0.08822801308835512,221,contextual annotation only
+110,PYCR1,ENSG00000183010,MONDO_0021117,lung neoplasm,0.01570714382409983,221,contextual annotation only
+111,PYCR1,ENSG00000183010,MONDO_0005097,squamous cell lung carcinoma,0.00813075680306344,221,contextual annotation only
+112,PYCR1,ENSG00000183010,EFO_1000016,anaplastic lung carcinoma,0.0073915970936940375,221,contextual annotation only
+113,PYCR1,ENSG00000183010,MONDO_0008433,small cell lung carcinoma,0.0044349582562164215,221,contextual annotation only

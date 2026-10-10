@@ -1,0 +1,11 @@
+{
+  "qc_auc_95": [
+    0.6024586249195624,
+    0.7394561581177915
+  ],
+  "expression_minus_qc_auc_95": [
+    0.259404439979218,
+    0.394216541394688
+  ],
+  "method": "paired patient bootstrap of fixed OOF predictions; no training uncertainty"
+}

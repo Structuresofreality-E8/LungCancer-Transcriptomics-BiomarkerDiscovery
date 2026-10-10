@@ -1,0 +1,165 @@
+title,gsm,characteristics,patient,condition,tumor_score,predicted_tumor
+LC_C1,GSM993606,"['age_at_diagnosis: 54', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_C1,Tumor,0.9854109385451494,True
+LC_C2,GSM993607,"['age_at_diagnosis: 51', 'gender: male', 'smoking_status: current smoker', 'Stage: 2B']",GEO_C2,Tumor,0.4316334295636505,False
+LC_C3,GSM993608,"['age_at_diagnosis: 65', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C3,Tumor,0.7082314760673136,True
+LC_C4,GSM993610,"['age_at_diagnosis: 52', 'gender: male', 'smoking_status: never smoker', 'Stage: 3B']",GEO_C4,Tumor,0.9979277184019505,True
+LC_C5,GSM993611,"['age_at_diagnosis: 68', 'gender: male', 'smoking_status: NA', 'Stage: 3A']",GEO_C5,Tumor,0.4958653813715328,False
+LC_C6,GSM993612,"['age_at_diagnosis: 38', 'gender: male', 'smoking_status: current smoker', 'Stage: 2B']",GEO_C6,Tumor,0.9710764765104747,True
+LC_C7,GSM993613,"['age_at_diagnosis: 81', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_C7,Tumor,0.982576648655368,True
+LC_C8,GSM993614,"['age_at_diagnosis: 85', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_C8,Tumor,0.9887426079503097,True
+LC_C9,GSM993616,"['age_at_diagnosis: 71', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_C9,Tumor,0.9913548076269006,True
+LC_C10,GSM993617,"['age_at_diagnosis: 58', 'gender: female', 'smoking_status: never smoker', 'Stage: 2A']",GEO_C10,Tumor,0.9945794167480885,True
+LC_C11,GSM993618,"['age_at_diagnosis: 63', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C11,Tumor,0.9771447505146006,True
+LC_C12,GSM993619,"['age_at_diagnosis: 66', 'gender: male', 'smoking_status: NA', 'Stage: 1B']",GEO_C12,Tumor,0.8165403784106223,True
+LC_C13,GSM993620,"['age_at_diagnosis: 72', 'gender: male', 'smoking_status: current smoker', 'Stage: 2B']",GEO_C13,Tumor,0.9967467970331756,True
+LC_C14,GSM993621,"['age_at_diagnosis: 50', 'gender: female', 'smoking_status: current smoker', 'Stage: 3A']",GEO_C14,Tumor,0.9791675287502554,True
+LC_C15,GSM993622,"['age_at_diagnosis: 60', 'gender: male', 'smoking_status: current smoker', 'Stage: 1B']",GEO_C15,Tumor,0.9624271934864217,True
+LC_C16,GSM993623,"['age_at_diagnosis: 54', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C16,Tumor,0.8171770275926243,True
+LC_C17,GSM993624,"['age_at_diagnosis: 64', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C17,Tumor,0.9143009031188155,True
+LC_C18,GSM993625,"['age_at_diagnosis: 68', 'gender: female', 'smoking_status: smoker', 'Stage: 1B']",GEO_C18,Tumor,0.9939991938522277,True
+LC_C19,GSM993626,"['age_at_diagnosis: 40', 'gender: female', 'smoking_status: never smoker', 'Stage: 4']",GEO_C19,Tumor,0.9463898976055999,True
+LC_C20,GSM993627,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_C20,Tumor,0.9524014365520969,True
+LC_C21,GSM993628,"['age_at_diagnosis: 42', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_C21,Tumor,0.9982802216622123,True
+LC_C22,GSM993629,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_C22,Tumor,0.9920571027265811,True
+LC_C23,GSM993630,"['age_at_diagnosis: 66', 'gender: male', 'smoking_status: NA', 'Stage: 3A']",GEO_C23,Tumor,0.9593213017656173,True
+LC_C24,GSM993631,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C24,Tumor,0.8963405444751307,True
+LC_C25,GSM993632,"['age_at_diagnosis: 66', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_C25,Tumor,0.9647690837744395,True
+LC_C26,GSM993633,"['age_at_diagnosis: 61', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_C26,Tumor,0.9580679058158192,True
+LC_C27,GSM993634,"['age_at_diagnosis: 51', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C27,Tumor,0.9347720397860203,True
+LC_C28,GSM993635,"['age_at_diagnosis: 59', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C28,Tumor,0.9599868724447145,True
+LC_C29,GSM993636,"['age_at_diagnosis: 60', 'gender: female', 'smoking_status: never smoker', 'Stage: 4']",GEO_C29,Tumor,0.8554567676191169,True
+LC_C30,GSM993637,"['age_at_diagnosis: 38', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C30,Tumor,0.637526608711083,True
+LC_C31,GSM993638,"['age_at_diagnosis: 61', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C31,Tumor,0.04101929276596884,False
+LC_C32,GSM993639,"['age_at_diagnosis: 58', 'gender: male', 'smoking_status: current smoker', 'Stage: 1A']",GEO_C32,Tumor,0.9550496698678728,True
+LC_C33,GSM993640,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: NA', 'Stage: NA']",GEO_C33,Tumor,0.9880118251651291,True
+LC_C34,GSM993641,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_C34,Tumor,0.9738292083170061,True
+LC_C35,GSM993642,"['age_at_diagnosis: 60', 'gender: male', 'smoking_status: current smoker', 'Stage: 2A']",GEO_C35,Tumor,0.9789469768542943,True
+LC_C36,GSM993643,"['age_at_diagnosis: 56', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_C36,Tumor,0.9956841742455524,True
+LC_S6,GSM993649,"['age_at_diagnosis: 58', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_S6,Tumor,0.6171063268821942,True
+LC_S8,GSM993650,"['age_at_diagnosis: 71', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_S8,Tumor,0.27892029455229567,False
+LC_S9,GSM993651,"['age_at_diagnosis: 69', 'gender: male', 'smoking_status: smoker', 'Stage: 2B']",GEO_S9,Tumor,0.9956901404194942,True
+LC_S10,GSM993652,"['age_at_diagnosis: 69', 'gender: male', 'smoking_status: smoker', 'Stage: 4']",GEO_S10,Tumor,0.9498954898596962,True
+LC_S11,GSM993653,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_S11,Tumor,0.9925750891481487,True
+LC_S12,GSM993654,"['age_at_diagnosis: 61', 'gender: male', 'smoking_status: current smoker', 'Stage: 3A']",GEO_S12,Tumor,0.9881083050134432,True
+LC_S13,GSM993655,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_S13,Tumor,0.7519518978868336,True
+LC_S14,GSM993656,"['age_at_diagnosis: 79', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_S14,Tumor,0.8952954905660764,True
+LC_S15,GSM993657,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: current smoker', 'Stage: 1B']",GEO_S15,Tumor,0.9595480328858879,True
+LC_S16,GSM993658,"['age_at_diagnosis: 67', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_S16,Tumor,0.8800498891984679,True
+LC_S17,GSM993659,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_S17,Tumor,0.9939683152515989,True
+LC_S18,GSM993660,"['age_at_diagnosis: 76', 'gender: male', 'smoking_status: smoker', 'Stage: 3A']",GEO_S18,Tumor,0.9095645824410182,True
+LC_S19,GSM993661,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_S19,Tumor,0.9910366141511994,True
+LC_S20,GSM993662,"['age_at_diagnosis: 58', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_S20,Tumor,0.9880202447411026,True
+LC_S21,GSM993663,"['age_at_diagnosis: 52', 'gender: male', 'smoking_status: current smoker', 'Stage: 1A']",GEO_S21,Tumor,0.9713011951699577,True
+LC_S22,GSM993664,"['age_at_diagnosis: 67', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S22,Tumor,0.6428980735140984,True
+LC_S23,GSM993665,"['age_at_diagnosis: 62', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S23,Tumor,0.9965333655263293,True
+LC_S24,GSM993666,"['age_at_diagnosis: 70', 'gender: female', 'smoking_status: never smoker', 'Stage: 2A']",GEO_S24,Tumor,0.9868818627063043,True
+LC_S25,GSM993667,"['age_at_diagnosis: 78', 'gender: male', 'smoking_status: smoker', 'Stage: 3A']",GEO_S25,Tumor,0.9922458194298255,True
+LC_S26,GSM993668,"['age_at_diagnosis: 70', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S26,Tumor,0.9518263197880468,True
+LC_S27,GSM993669,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_S27,Tumor,0.9533552246827403,True
+LC_S28,GSM993670,"['age_at_diagnosis: 63', 'gender: male', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S28,Tumor,0.9694184622425821,True
+LC_S29,GSM993671,"['age_at_diagnosis: 59', 'gender: male', 'smoking_status: current smoker', 'Stage: 3A']",GEO_S29,Tumor,0.9934314151127754,True
+LC_S30,GSM993672,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S30,Tumor,0.7311335734784766,True
+LC_S31,GSM993673,"['age_at_diagnosis: 56', 'gender: male', 'smoking_status: smoker', 'Stage: 2B']",GEO_S31,Tumor,0.9937750972707942,True
+LC_S32,GSM993674,"['age_at_diagnosis: 64', 'gender: male', 'smoking_status: smoker', 'Stage: 1A']",GEO_S32,Tumor,0.9766177363421844,True
+LC_S33,GSM993675,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_S33,Tumor,0.010458275170308758,False
+LC_S34,GSM993676,"['age_at_diagnosis: 45', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S34,Tumor,0.9563331674911056,True
+LC_S35,GSM993677,"['age_at_diagnosis: 82', 'gender: male', 'smoking_status: smoker', 'Stage: 4']",GEO_S35,Tumor,0.9975257818863754,True
+LC_S36,GSM993678,"['age_at_diagnosis: 74', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S36,Tumor,0.937223518063648,True
+LC_S37,GSM993679,"['age_at_diagnosis: 69', 'gender: male', 'smoking_status: smoker', 'Stage: 2B']",GEO_S37,Tumor,0.9356474761289567,True
+LC_S38,GSM993680,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: current smoker', 'Stage: 3A']",GEO_S38,Tumor,0.9981417918008452,True
+LC_S39,GSM993681,"['age_at_diagnosis: 58', 'gender: male', 'smoking_status: smoker', 'Stage: 2B']",GEO_S39,Tumor,0.9947922942400341,True
+LC_S40,GSM993682,"['age_at_diagnosis: 47', 'gender: male', 'smoking_status: current smoker', 'Stage: 2B']",GEO_S40,Tumor,0.9936708568013207,True
+LC_S41,GSM993683,"['age_at_diagnosis: 55', 'gender: female', 'smoking_status: smoker', 'Stage: 3A']",GEO_S41,Tumor,0.9799452972299916,True
+LC_S42,GSM993684,"['age_at_diagnosis: 62', 'gender: female', 'smoking_status: never smoker', 'Stage: 3B']",GEO_S42,Tumor,0.9949788559191645,True
+LC_S43,GSM993685,"['age_at_diagnosis: 68', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S43,Tumor,0.9429448376337269,True
+LC_S44,GSM993686,"['age_at_diagnosis: 75', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_S44,Tumor,0.756902325563975,True
+LC_S45,GSM993687,"['age_at_diagnosis: 72', 'gender: male', 'smoking_status: never smoker', 'Stage: 1A']",GEO_S45,Tumor,0.9823173509571052,True
+LC_S46,GSM993688,"['age_at_diagnosis: 66', 'gender: male', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S46,Tumor,0.99760563724028,True
+LC_S47,GSM993689,"['age_at_diagnosis: 75', 'gender: female', 'smoking_status: never smoker', 'Stage: 3B']",GEO_S47,Tumor,0.3712468686971284,False
+LC_S48,GSM993690,"['age_at_diagnosis: 48', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S48,Tumor,0.9804029641361286,True
+LC_S49,GSM993691,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: 1A']",GEO_S49,Tumor,0.9907246120914444,True
+LC_S1,GSM993644,"['age_at_diagnosis: 76', 'gender: male', 'smoking_status: smoker', 'Stage: 2A']",GEO_S1,Tumor,0.9319254457933698,True
+LC_S2,GSM993645,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: never smoker', 'Stage: 3A']",GEO_S2,Tumor,0.918378628702018,True
+LC_S3,GSM993646,"['age_at_diagnosis: 54', 'gender: male', 'smoking_status: current smoker', 'Stage: 1A']",GEO_S3,Tumor,0.9926820876815278,True
+LC_S4,GSM993647,"['age_at_diagnosis: 68', 'gender: male', 'smoking_status: never smoker', 'Stage: 1A']",GEO_S4,Tumor,0.9951383682042524,True
+LC_S5,GSM993648,"['age_at_diagnosis: 79', 'gender: male', 'smoking_status: smoker', 'Stage: 1B']",GEO_S5,Tumor,0.9739144790696456,True
+LC_S50,GSM993692,"['age_at_diagnosis: 64', 'gender: female', 'smoking_status: never smoker', 'Stage: 1B']",GEO_S50,Tumor,0.8199132072781496,True
+LC_S51,GSM993693,"['age_at_diagnosis: 64', 'gender: male', 'smoking_status: current smoker', 'Stage: 2A']",GEO_S51,Tumor,0.9986369413637713,True
+LC_S52,GSM993694,"['age_at_diagnosis: 82', 'gender: female', 'smoking_status: smoker', 'Stage: 1A']",GEO_S52,Tumor,0.22228115157998413,False
+LC_C1_nor,GSM993695,"['age_at_diagnosis: 54', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C1,Normal,0.0033374871898774377,False
+LC_C2_nor,GSM993696,"['age_at_diagnosis: 51', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_C2,Normal,0.001634095098007982,False
+LC_C3_nor,GSM993697,"['age_at_diagnosis: 65', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C3,Normal,0.000983311657520433,False
+LC_C5_nor,GSM993698,"['age_at_diagnosis: 68', 'gender: male', 'smoking_status: NA', 'Stage: NA']",GEO_C5,Normal,0.013049044684659328,False
+LC_C7_nor,GSM993699,"['age_at_diagnosis: 81', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C7,Normal,0.04458773392862484,False
+LC_C9_nor,GSM993700,"['age_at_diagnosis: 71', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C9,Normal,0.00573529323030762,False
+LC_C10_nor,GSM993701,"['age_at_diagnosis: 58', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C10,Normal,0.0017326559860968156,False
+LC_C11_nor,GSM993702,"['age_at_diagnosis: 63', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C11,Normal,0.0008299300053122914,False
+LC_C12_nor,GSM993703,"['age_at_diagnosis: 66', 'gender: male', 'smoking_status: NA', 'Stage: NA']",GEO_C12,Normal,0.0023594227655560096,False
+LC_C14_nor,GSM993704,"['age_at_diagnosis: 50', 'gender: female', 'smoking_status: current smoker', 'Stage: NA']",GEO_C14,Normal,0.004439878117279371,False
+LC_C16_nor,GSM993705,"['age_at_diagnosis: 54', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C16,Normal,0.0016855592283837714,False
+LC_C17_nor,GSM993706,"['age_at_diagnosis: 64', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C17,Normal,0.0005952514741662364,False
+LC_C18_nor,GSM993707,"['age_at_diagnosis: 68', 'gender: female', 'smoking_status: smoker', 'Stage: NA']",GEO_C18,Normal,0.005665267357382513,False
+LC_C19_nor,GSM993708,"['age_at_diagnosis: 40', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C19,Normal,0.0041352296068562,False
+LC_C20_nor,GSM993709,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C20,Normal,0.00331802287223538,False
+LC_C21_nor,GSM993710,"['age_at_diagnosis: 42', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C21,Normal,0.0019883614620718835,False
+LC_C22_nor,GSM993711,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C22,Normal,0.007315954596467962,False
+LC_C24_nor,GSM993712,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C24,Normal,0.0016161036827768238,False
+LC_C25_nor,GSM993713,"['age_at_diagnosis: 66', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C25,Normal,0.00306111284504047,False
+LC_C28_nor,GSM993714,"['age_at_diagnosis: 59', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C28,Normal,0.011030000483561786,False
+LC_C29_nor,GSM993715,"['age_at_diagnosis: 60', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C29,Normal,0.006357079683226913,False
+LC_C30_nor,GSM993716,"['age_at_diagnosis: 38', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C30,Normal,0.0006502342477130584,False
+LC_C31_nor,GSM993717,"['age_at_diagnosis: 61', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C31,Normal,0.0003920882908275866,False
+LC_C33_nor,GSM993718,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: NA', 'Stage: NA']",GEO_C33,Normal,0.0027432487603652744,False
+LC_C34_nor,GSM993719,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_C34,Normal,0.03187491359353133,False
+LC_C35_nor,GSM993720,"['age_at_diagnosis: 60', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_C35,Normal,0.0298472790182154,False
+LC_C36_nor,GSM993721,"['age_at_diagnosis: 56', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_C36,Normal,0.0020810906111331674,False
+LC_S6_nor,GSM993727,"['age_at_diagnosis: 58', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S6,Normal,0.0035372583122313585,False
+LC_S8_nor,GSM993728,"['age_at_diagnosis: 71', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S8,Normal,0.006490815991234062,False
+LC_S9_nor,GSM993729,"['age_at_diagnosis: 69', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S9,Normal,0.0361875220885816,False
+LC_S10_nor,GSM993730,"['age_at_diagnosis: 69', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S10,Normal,0.015698727061751898,False
+LC_S11_nor,GSM993731,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S11,Normal,0.13187520175146014,False
+LC_S13_nor,GSM993732,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S13,Normal,0.010435529753190375,False
+LC_S14_nor,GSM993733,"['age_at_diagnosis: 79', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S14,Normal,0.15292267734684042,False
+LC_S15_nor,GSM993734,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_S15,Normal,0.003990727161800447,False
+LC_S16_nor,GSM993735,"['age_at_diagnosis: 67', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S16,Normal,0.0036464535338379296,False
+LC_S17_nor,GSM993736,"['age_at_diagnosis: 73', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S17,Normal,0.00183454129710708,False
+LC_S18_nor,GSM993737,"['age_at_diagnosis: 76', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S18,Normal,0.01210088576692095,False
+LC_S19_nor,GSM993738,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S19,Normal,0.005328102781262086,False
+LC_S20_nor,GSM993739,"['age_at_diagnosis: 58', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S20,Normal,0.0014428039671568792,False
+LC_S21_nor,GSM993740,"['age_at_diagnosis: 52', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_S21,Normal,0.002020062873750854,False
+LC_S22_nor,GSM993741,"['age_at_diagnosis: 67', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S22,Normal,0.018723327108057033,False
+LC_S23_nor,GSM993742,"['age_at_diagnosis: 62', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S23,Normal,0.011500692278055781,False
+LC_S24_nor,GSM993743,"['age_at_diagnosis: 70', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S24,Normal,0.007953438307244123,False
+LC_S25_nor,GSM993744,"['age_at_diagnosis: 78', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S25,Normal,0.0031529863486446466,False
+LC_S26_nor,GSM993745,"['age_at_diagnosis: 70', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S26,Normal,0.26247120693690706,False
+LC_S27_nor,GSM993746,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S27,Normal,0.021346815969307327,False
+LC_S28_nor,GSM993747,"['age_at_diagnosis: 63', 'gender: male', 'smoking_status: never smoker', 'Stage: NA']",GEO_S28,Normal,0.00963288549147186,False
+LC_S29_nor,GSM993748,"['age_at_diagnosis: 59', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_S29,Normal,0.025665618561600777,False
+LC_S30_nor,GSM993749,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S30,Normal,0.009368641028677075,False
+LC_S31_nor,GSM993750,"['age_at_diagnosis: 56', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S31,Normal,0.03974781382552661,False
+LC_S32_nor,GSM993751,"['age_at_diagnosis: 64', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S32,Normal,0.013054331203648482,False
+LC_S33_nor,GSM993752,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S33,Normal,0.17173347454718974,False
+LC_S34_nor,GSM993753,"['age_at_diagnosis: 45', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S34,Normal,0.005908826326629757,False
+LC_S35_nor,GSM993754,"['age_at_diagnosis: 82', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S35,Normal,0.0014932953137334964,False
+LC_S36_nor,GSM993755,"['age_at_diagnosis: 74', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S36,Normal,0.40748889099563207,False
+LC_S37_nor,GSM993756,"['age_at_diagnosis: 69', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S37,Normal,0.08434722940893466,False
+LC_S38_nor,GSM993757,"['age_at_diagnosis: 65', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_S38,Normal,0.4835710664207423,False
+LC_S39_nor,GSM993758,"['age_at_diagnosis: 58', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S39,Normal,0.027683690842897606,False
+LC_S40_nor,GSM993759,"['age_at_diagnosis: 47', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_S40,Normal,0.0049624781057463875,False
+LC_S41_nor,GSM993760,"['age_at_diagnosis: 55', 'gender: female', 'smoking_status: smoker', 'Stage: NA']",GEO_S41,Normal,0.11074591423085652,False
+LC_S42_nor,GSM993761,"['age_at_diagnosis: 62', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S42,Normal,0.013114250253773543,False
+LC_S43_nor,GSM993762,"['age_at_diagnosis: 68', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S43,Normal,0.01685677115324602,False
+LC_S44_nor,GSM993763,"['age_at_diagnosis: 75', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S44,Normal,0.007337860287566255,False
+LC_S45_nor,GSM993764,"['age_at_diagnosis: 72', 'gender: male', 'smoking_status: never smoker', 'Stage: NA']",GEO_S45,Normal,0.004517507601480997,False
+LC_S46_nor,GSM993765,"['age_at_diagnosis: 66', 'gender: male', 'smoking_status: never smoker', 'Stage: NA']",GEO_S46,Normal,0.015323419113067633,False
+LC_S47_nor,GSM993766,"['age_at_diagnosis: 75', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S47,Normal,0.017200837351596786,False
+LC_S48_nor,GSM993767,"['age_at_diagnosis: 48', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S48,Normal,0.007106906766402513,False
+LC_S49_nor,GSM993768,"['age_at_diagnosis: 66', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S49,Normal,0.007136572732609137,False
+LC_S1_nor,GSM993722,"['age_at_diagnosis: 76', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S1,Normal,0.043510460954572706,False
+LC_S2_nor,GSM993723,"['age_at_diagnosis: 62', 'gender: male', 'smoking_status: never smoker', 'Stage: NA']",GEO_S2,Normal,0.001848306682113596,False
+LC_S3_nor,GSM993724,"['age_at_diagnosis: 54', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_S3,Normal,0.005526601947609904,False
+LC_S4_nor,GSM993725,"['age_at_diagnosis: 68', 'gender: male', 'smoking_status: never smoker', 'Stage: NA']",GEO_S4,Normal,0.0023904903087122948,False
+LC_S5_nor,GSM993726,"['age_at_diagnosis: 79', 'gender: male', 'smoking_status: smoker', 'Stage: NA']",GEO_S5,Normal,0.024460817799795587,False
+LC_S50_nor,GSM993769,"['age_at_diagnosis: 64', 'gender: female', 'smoking_status: never smoker', 'Stage: NA']",GEO_S50,Normal,0.04262269767889824,False
+LC_S51_nor,GSM993770,"['age_at_diagnosis: 64', 'gender: male', 'smoking_status: current smoker', 'Stage: NA']",GEO_S51,Normal,0.0025984207465948447,False
+LC_S52_nor,GSM993771,"['age_at_diagnosis: 82', 'gender: female', 'smoking_status: smoker', 'Stage: NA']",GEO_S52,Normal,0.0027556855055235457,False
